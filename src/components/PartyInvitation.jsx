@@ -304,7 +304,7 @@ export default function PartyInvitation() {
                       Ngày
                     </p>
                     <p className="text-lg sm:text-xl font-bold text-gray-800">
-                      Thứ Bảy, 06/12/2024
+                      Thứ Bảy, 06/12/2025
                     </p>
                   </div>
                 </div>
