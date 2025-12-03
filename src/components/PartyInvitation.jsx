@@ -200,7 +200,7 @@ export default function PartyInvitation() {
               <div className="w-20 sm:w-24 h-1 sm:h-1.5 bg-linear-to-r from-pink-500 via-fuchsia-500 to-purple-500 rounded-full mb-4 sm:mb-6"></div>
 
               <p className="text-base sm:text-lg text-gray-600 max-w-xs sm:max-w-sm mb-6 sm:mb-8 leading-relaxed px-2">
-                Tối 6/12/2025{" "}
+                Tối 7/12/2025{" "}
               </p>
 
               <div className="relative inline-block">
@@ -304,7 +304,7 @@ export default function PartyInvitation() {
                       Ngày
                     </p>
                     <p className="text-lg sm:text-xl font-bold text-gray-800">
-                      Thứ Bảy, 06/12/2025
+                      Chủ Nhật, 07/12/2025
                     </p>
                   </div>
                 </div>
@@ -321,7 +321,7 @@ export default function PartyInvitation() {
                       Thời Gian
                     </p>
                     <p className="text-lg sm:text-xl font-bold text-gray-800">
-                      7:00 PM - Tối thứ Bảy
+                      7:00 PM - Tối Chủ Nhật
                     </p>
                   </div>
                 </div>
